@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "003_protimer\\003_protimer"
+		},
+		{
+			"name": "004_protimer",
+			"path": "004_protimer\\004_protimer"
+		},
+		{
+			"name": "005_protimer_st",
+			"path": "005_protimer_st\\005_protimer_st"
+		},
+		{
+			"name": "006_qhsm_test",
+			"path": "006_qhsm\\006_qhsm_test"
+		},
+		{
+			"name": "007_clockalarm",
+			"path": "007_clockalarm\\007_clockalarm"
+		},
+		{
+			"name": "008_ClockAlarm_AO",
+			"path": "008_clockalarm_AO\\008_ClockAlarm_AO"
+		}
+	],
+	"settings": {}
+}
